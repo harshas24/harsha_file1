@@ -1,2 +1,2 @@
 # harsha_file1
-Created list of personal projects
+Created a list of personal projects
